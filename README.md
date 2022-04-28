@@ -81,9 +81,3 @@
     </div>
     <!---->
 </div>
-
-<!--suppress CssUnknownTarget -->
-<style>
-    @import url("https://assets.habr.com/habr-web/css/app.022a37bf.css");
-</style>
-<script src="https://assets.habr.com/habr-web/js/chunk-vendors.3720226a.js"></script>
